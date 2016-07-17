@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="yaml" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>YAML Text Formatter</name>
+	<description>Text formatter that ships with Symphony</description>
+	<repo type="github">https://github.com/mazedigital/yaml</repo>
+	<url type="discuss" />
+	<types>
+		<type>Text Formatters</type>
+	</types>
+	<authors>
+		<author>
+			<name github="mazedigital" symphony="gunglien">Maze Digital</name>
+			<website>https://maze.digital</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0.0" date="2016-07-17" min="2.6.x">
+			- Initial Release
+		</release>
+	</releases>
+</extension>
